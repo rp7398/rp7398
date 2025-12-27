@@ -36,41 +36,12 @@
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Programming & Databases
-- Python  
-- R  
-- SQL  
-
-### 🧩 Frameworks & UI
-- HTML / CSS / JavaScript  
-- React JS  
-- Tkinter  
-- PyQt  
-
-</td>
-<td width="50%">
-
-### 📊 Data Science & Big Data
-- Pandas, NumPy  
-- Apache Spark  
-- PySpark  
-- Spark SQL  
-- Structured Streaming  
-
-### 🛠️ Tools & Platforms
-- Docker  
-- Jenkins  
-- Kafka (Basics)  
-- Git & GitHub  
-- Linux (Basics)  
-
-</td>
-</tr>
-</table>
+| **Category** | **Technologies** |
+|-------------|------------------|
+| **Programming & Databases** | Python, R, SQL |
+| **Frameworks & UI** | HTML, CSS, JavaScript, React JS, Tkinter, PyQt |
+| **Data Science & Big Data** | Pandas, NumPy, Apache Spark, PySpark, Spark SQL, Structured Streaming |
+| **Tools & Platforms** | Docker, Jenkins, Kafka (Basics), Git & GitHub, Linux (Basics) |
 
 
 ## 🚀 Featured Projects
