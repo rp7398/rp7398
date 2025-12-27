@@ -36,32 +36,42 @@
 
 ## 🛠️ Tech Stack
 
-### Programming & Databases
-- Python
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Programming & Databases
+- Python  
 - R  
-- SQL
+- SQL  
 
-### Frameworks & UI Interface
-- HTML/CSS/JavaScript
-- React Js
-- Tkinter
-- PyQt
+### 🧩 Frameworks & UI
+- HTML / CSS / JavaScript  
+- React JS  
+- Tkinter  
+- PyQt  
 
-### Data Science & Big Data
+</td>
+<td width="50%">
+
+### 📊 Data Science & Big Data
 - Pandas, NumPy  
 - Apache Spark  
 - PySpark  
 - Spark SQL  
 - Structured Streaming  
 
-### Tools & Platforms
-- Docker
-- Jenkins
-- Kafka (Basics)
+### 🛠️ Tools & Platforms
+- Docker  
+- Jenkins  
+- Kafka (Basics)  
 - Git & GitHub  
-- Linux (Basics)
+- Linux (Basics)  
 
----
+</td>
+</tr>
+</table>
+
 
 ## 🚀 Featured Projects
 
