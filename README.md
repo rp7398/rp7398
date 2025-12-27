@@ -76,8 +76,8 @@ Automation-focused data analysis and EDA using Python
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="assets/github-stats.png" height="165"/>
-  <img src="assets/top-languages.png" height="165"/>
+  <img src="assets/github-stats.png" height="200"/>
+  <img src="assets/top-languages.png" height="200"/>
 </p>
 
 ---
