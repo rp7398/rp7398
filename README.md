@@ -41,7 +41,7 @@
 | **Programming & Databases** | Python, R, SQL |
 | **Frameworks & UI** | HTML, CSS, JavaScript, React JS, Tkinter, PyQt |
 | **Data Science & Big Data** | Pandas, NumPy, Apache Spark, PySpark, Spark SQL, Structured Streaming |
-| **Tools & Platforms** | Docker, Jenkins, Kafka (Basics), Git & GitHub, Linux (Basics) |
+| **Tools & Platforms** | Docker, Jenkins, Git & GitHub, Linux (Basics) |
 
 
 ## 🚀 Featured Projects
