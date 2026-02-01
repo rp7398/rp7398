@@ -95,7 +95,7 @@ Automation-focused data analysis and EDA using Python
 ## 📫 How to Reach Me
 
 - 📧 Email: *rajatpathak522@gmail.com*  
-- 💼 LinkedIn: *https://www.linkedin.com/in/rajat-pathak-966637312*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/rajatpathak-data/*  
 - 🧑‍💻 GitHub: https://github.com/rp7398  
 
 ---
